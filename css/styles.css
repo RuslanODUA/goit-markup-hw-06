@@ -346,9 +346,13 @@ img {
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
-  background-color: var(--accent-text-color);
+  fill: var(--accent-text-color);
 
   cursor: pointer; /* Задан курсор при наведении*/
+}
+.close-img {
+  width: 18px;
+  height: 18px;
 }
 /******************************** Наши Особенности ***************************************/
 
