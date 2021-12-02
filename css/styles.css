@@ -525,7 +525,7 @@ img {
   height: 15px;
 }
 .checkbox:checked + .checkbox-info {
-  background-image: url(../images/icons.svg#icon-check);
+  background-image: url(../images/icon-check.svg);
 
   background-color: #2196f3;
   background-repeat: no-repeat;
